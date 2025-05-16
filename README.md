@@ -73,14 +73,6 @@ This project analyzes the relationship between <strong>debt-to-income ratio (DTI
 
 ---
 
-<h2>📸 Sample Visualization</h2>
-
-<p align="center">
-  <img src="assets/dti_vs_interest.png" width="80%" alt="DTI vs Interest Rate" />
-</p>
-
----
-
 <h2>🧰 Tools & Libraries</h2>
 
 <ul>
@@ -102,8 +94,6 @@ loan-interest-rate-prediction/
 ├── requirements.txt               # Python dependencies
 ├── LICENSE                        # MIT License
 ├── README.md
-└── assets/
-    └── dti_vs_interest.png
 </pre>
 
 ---
