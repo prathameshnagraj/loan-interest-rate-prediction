@@ -90,7 +90,6 @@ loan-interest-rate-prediction/
 ├── Econ_Project_Group4.ipynb      # Full modeling notebook
 ├── loan_data.csv                  # Dataset
 ├── Presentation2.pptx             # Project slides
-├── Report 1.docx, Report 2.docx   # Summary and proposal (optional)
 ├── requirements.txt               # Python dependencies
 ├── LICENSE                        # MIT License
 ├── README.md
